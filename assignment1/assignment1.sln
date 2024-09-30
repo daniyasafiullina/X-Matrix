@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XMatrix", "XMatrix", "{B5BF000E-A0EC-408F-A5DD-C366C2555C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMatrix", "XMatrix\XMatrix\XMatrix.csproj", "{25DD367B-058D-4C68-8A4B-A54EB8B39BC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestProject1", "TestProject1", "{A0203845-7BEE-4D12-8CE4-F73243DA4DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1\TestProject1.csproj", "{AEDCEED5-36EC-43FE-AB77-41868AF79547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DD367B-058D-4C68-8A4B-A54EB8B39BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DD367B-058D-4C68-8A4B-A54EB8B39BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DD367B-058D-4C68-8A4B-A54EB8B39BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DD367B-058D-4C68-8A4B-A54EB8B39BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDCEED5-36EC-43FE-AB77-41868AF79547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDCEED5-36EC-43FE-AB77-41868AF79547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDCEED5-36EC-43FE-AB77-41868AF79547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDCEED5-36EC-43FE-AB77-41868AF79547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{25DD367B-058D-4C68-8A4B-A54EB8B39BC6} = {B5BF000E-A0EC-408F-A5DD-C366C2555C29}
+		{AEDCEED5-36EC-43FE-AB77-41868AF79547} = {A0203845-7BEE-4D12-8CE4-F73243DA4DD4}
+	EndGlobalSection
+EndGlobal
